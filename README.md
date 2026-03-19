@@ -1,5 +1,5 @@
 # SIC-25-26-TeamHES
-# handwritten Equation Solver (Real-Time)
+# Handwritten Equation Solver (Real-Time)
 
 A real-time AI-powered application that detects and solves mathematical equations using a camera feed. Built with **YOLO (Ultralytics)** for symbol detection, **SymPy** for solving equations, and **PyQt5** for a modern GUI.
 
